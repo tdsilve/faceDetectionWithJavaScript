@@ -1,4 +1,4 @@
-# Face Detector with JavaScript in the browser
+# Face Detector with JavaScript in the browser (In progress)
 The main goal of this project is to implement a web app face detector. 
 
 ## What you must learn before starting this project
